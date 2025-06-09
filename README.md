@@ -8,7 +8,7 @@ This is a submission for CyFuture AI Hackathon by Team AnantAkash.
 - 📱 UI Screen Recording: Available in /design folder
 
 ## Demo Video
-https://drive.google.com/file/d/1Ty58O8k4wuAdYI30-jzScidsGzXcKCDq/view?usp=sharing
+[https://drive.google.com/file/d/1Ty58O8k4wuAdYI30-jzScidsGzXcKCDq/view?usp=sharing](https://drive.google.com/file/d/1Ty58O8k4wuAdYI30-jzScidsGzXcKCDq/view?usp=sharing)
 
 ## Authors
 - Akash Prajapati
