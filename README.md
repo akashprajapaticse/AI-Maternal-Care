@@ -3,7 +3,7 @@
 This is a submission for CyFuture AI Hackathon by Team AnantAkash.
 
 ## Contents
-- 📄 Project PDF: https://drive.google.com/file/d/1eiVquiYaaHlkMOTBL9hQzKgp8rVGPz-C/view?usp=sharing
+- 📄 Project PDF: https://drive.google.com/file/d/14nHDoVCpQLYqssubI3zL7tcHTUabkwxZ/view?usp=sharing
 - 🤖 Technologies: Python, LangChain, OpenAI, RAG, MongoDB
 - 📱 UI Screen Recording: Available in /design folder
 
